@@ -1,0 +1,1 @@
+Is a desktop computer or workstation that is capable of obtaining information and applications from a server.

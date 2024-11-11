@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "20b7b3698fee0bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "618435683ee08df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1383b503670ae43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebSphere_IBM/Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2d131a748a8530c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2400980882020028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31b9ac678209c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cac7aa87c003c55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f8bf21867cf320d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e88945333563019",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4196d099f867e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824c6b95f170fc4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WebSphere_IBM/Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Info"
+            }
+          },
+          {
+            "id": "7db54966c907c7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WebSphere_IBM/Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Info"
+            }
+          },
+          {
+            "id": "31988600c8567297",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd37e23e558ef0c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WebSphere_IBM/Info.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1383b503670ae43d",
+  "lastOpenFiles": [
+    "WebSphere_IBM/Terms/Application hosting.md",
+    "WebSphere_IBM/Info.md",
+    "WebSphere_IBM/Terms/Web server and application server.md",
+    "WebSphere_IBM/WebSphere.md",
+    "WebSphere_IBM/Terms/Server.md",
+    "WebSphere_IBM/Terms/Client-server architect.md",
+    "WebSphere_IBM/Terms/Client.md",
+    "WebSphere_IBM/Terms",
+    "Network_folder_01/SSL,TLS,HTTPS.md",
+    "WebSphere_IBM"
+  ]
+}
