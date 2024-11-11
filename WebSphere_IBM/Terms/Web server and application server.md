@@ -4,9 +4,9 @@ A *Web server* is a computer system that processes requests via http, the basic 
 
 An *Application server* behaves like an extended VM for running app, transparently handing connections to the other components like database on one side, and, often, connections to the Web client on the other. 
 
-| Webservers  | IHS, IIS, Apache, iPlanet                                |
-| ----------- | -------------------------------------------------------- |
-| App servers | Websphere App server -- IBM, Oracle, ApacheTomcat, Jboss |
+| Webservers      | IHS, IIS, Apache, iPlanet                                    |
+| --------------- | ------------------------------------------------------------ |
+| **App servers** | **Websphere App server -- IBM, Oracle, ApacheTomcat, Jboss** |
 #### Functionality
 http://google.com    (https/https)
 1. Identify the request which are comes from the client

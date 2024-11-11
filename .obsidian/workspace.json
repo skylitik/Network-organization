@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebSphere_IBM/Info.md",
-                "mode": "source",
+                "file": "WebSphere_IBM/Terms/Web server and application server.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Info"
+              "title": "Web server and application server"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "1383b503670ae43d",
   "lastOpenFiles": [
-    "WebSphere_IBM/Terms/Application hosting.md",
     "WebSphere_IBM/Info.md",
+    "WebSphere_IBM/Terms/Application hosting.md",
     "WebSphere_IBM/Terms/Web server and application server.md",
     "WebSphere_IBM/WebSphere.md",
     "WebSphere_IBM/Terms/Server.md",
